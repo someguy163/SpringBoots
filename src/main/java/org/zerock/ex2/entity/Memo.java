@@ -4,7 +4,7 @@ import jakarta.persistence.*;
 import lombok.*;
 
 @Entity
-//table 네임
+//table 네임d
 @Table(name = "tbl_memo")
 //
 @Getter
